@@ -1,7 +1,5 @@
 # -*- mode: python; coding: utf-8; -*-
 """Functions for partnership accounting with Ledger."""
-__version__ = "0.1.0"
-
 from math import floor
 
 from ledger import Amount
